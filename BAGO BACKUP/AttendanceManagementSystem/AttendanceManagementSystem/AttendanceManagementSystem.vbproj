@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{135A4BDA-DBD4-46DE-A8E8-DEB302F4BE67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AttendanceManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>AttendanceManagementSystem</RootNamespace>
+    <AssemblyName>AttendanceManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AttendanceManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AttendanceManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.Office.Interop" />
+    <Import Include="Microsoft.Office.Interop.Access" />
+    <Import Include="Microsoft.Office.Interop.Access.Dao" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttendanceRecord\AttendanceRecord.Designer.vb">
+      <DependentUpon>AttendanceRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AttendanceRecord\AttendanceRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttendanceRecord\AttendanceRecordReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AttendanceRecordReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AttendanceRecord\AttendanceRecordViewer.Designer.vb">
+      <DependentUpon>AttendanceRecordViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AttendanceRecord\AttendanceRecordViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance\Attendance.Designer.vb">
+      <DependentUpon>Attendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance\Attendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\AuditTrailHistory.Designer.vb">
+      <DependentUpon>AuditTrailHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\AuditTrailHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Department\DepartmentList.Designer.vb">
+      <DependentUpon>DepartmentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Department\DepartmentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Department\DepartmentMaintenance.Designer.vb">
+      <DependentUpon>DepartmentMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Department\DepartmentMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventRecord\EventRecord.Designer.vb">
+      <DependentUpon>EventRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EventRecord\EventRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventRecord\EventRecordReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventRecordReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EventRecord\EventRecordViewer.Designer.vb">
+      <DependentUpon>EventRecordViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EventRecord\EventRecordViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Event\EventAttendance.Designer.vb">
+      <DependentUpon>EventAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Event\EventAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Event\EventHistory.Designer.vb">
+      <DependentUpon>EventHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Event\EventHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Event\EventList.Designer.vb">
+      <DependentUpon>EventList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Event\EventList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Event\EventMaintenance.Designer.vb">
+      <DependentUpon>EventMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Event\EventMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword\ConfirmUsername.Designer.vb">
+      <DependentUpon>ConfirmUsername.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword\ConfirmUsername.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword\ForgotPassword.Designer.vb">
+      <DependentUpon>ForgotPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword\ForgotPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogHistory\LogHistory.Designer.vb">
+      <DependentUpon>LogHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogHistory\LogHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAnnouncement\EJCSMS.vb" />
+    <Compile Include="ManageAnnouncement\SmsAnnouncement.Designer.vb">
+      <DependentUpon>SmsAnnouncement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAnnouncement\SmsAnnouncement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAnnouncement\SmsAnnouncementRecord.Designer.vb">
+      <DependentUpon>SmsAnnouncementRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAnnouncement\SmsAnnouncementRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecurityQuestion\SecurityQuestion.Designer.vb">
+      <DependentUpon>SecurityQuestion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SecurityQuestion\SecurityQuestion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecurityQuestion\SecurityQuestionMaintenance.Designer.vb">
+      <DependentUpon>SecurityQuestionMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SecurityQuestion\SecurityQuestionMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentInfo\StudentMasterListReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentMasterListReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="StudentInfo\StudentMasterListViewer.Designer.vb">
+      <DependentUpon>StudentMasterListViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfo\StudentMasterListViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemPassword\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemPassword\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemPassword\SystemPassword.Designer.vb">
+      <DependentUpon>SystemPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemPassword\SystemPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemPassword\SystemPasswordList.Designer.vb">
+      <DependentUpon>SystemPasswordList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemPassword\SystemPasswordList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemPassword\SystemPasswordMaintenance.Designer.vb">
+      <DependentUpon>SystemPasswordMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SystemPassword\SystemPasswordMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserAccount\UserAccount.Designer.vb">
+      <DependentUpon>UserAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserAccount\UserAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserAccount\UserAccountMaintenance.Designer.vb">
+      <DependentUpon>UserAccountMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserAccount\UserAccountMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAnnouncement\AnnouncementMaintenance.Designer.vb">
+      <DependentUpon>AnnouncementMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAnnouncement\AnnouncementMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Year Level\YearLevel.Designer.vb">
+      <DependentUpon>YearLevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Year Level\YearLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAnnouncement\ManageAnnouncement.Designer.vb">
+      <DependentUpon>ManageAnnouncement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAnnouncement\ManageAnnouncement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="CourseInfo\CourseList.Designer.vb">
+      <DependentUpon>CourseList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CourseInfo\CourseList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseInfo\CourseMaintenance.Designer.vb">
+      <DependentUpon>CourseMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CourseInfo\CourseMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentInfo\DataShitUpload.vb" />
+    <Compile Include="StudentInfo\ImportStudentMasterList.Designer.vb">
+      <DependentUpon>ImportStudentMasterList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfo\ImportStudentMasterList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\Module1.vb" />
+    <Compile Include="StudentInfo\Page1.vb" />
+    <Compile Include="StudentInfo\site.Designer.vb">
+      <DependentUpon>site.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfo\site.vb" />
+    <Compile Include="StudentInfo\StudentEntry.Designer.vb">
+      <DependentUpon>StudentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfo\StudentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentInfo\StudentMasterList.Designer.vb">
+      <DependentUpon>StudentMasterList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfo\StudentMasterList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentInfo\Workbook.vb" />
+    <Compile Include="StudentInfo\Worksheet.vb" />
+    <Compile Include="Year Level\YearLevelMaintenance.Designer.vb">
+      <DependentUpon>YearLevelMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Year Level\YearLevelMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AttendanceRecord\AttendanceRecord.resx">
+      <DependentUpon>AttendanceRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendanceRecord\AttendanceRecordReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AttendanceRecordReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendanceRecord\AttendanceRecordViewer.resx">
+      <DependentUpon>AttendanceRecordViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance\Attendance.resx">
+      <DependentUpon>Attendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\AuditTrailHistory.resx">
+      <DependentUpon>AuditTrailHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Department\DepartmentList.resx">
+      <DependentUpon>DepartmentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Department\DepartmentMaintenance.resx">
+      <DependentUpon>DepartmentMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventRecord\EventRecord.resx">
+      <DependentUpon>EventRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventRecord\EventRecordReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventRecordReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventRecord\EventRecordViewer.resx">
+      <DependentUpon>EventRecordViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event\EventAttendance.resx">
+      <DependentUpon>EventAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event\EventHistory.resx">
+      <DependentUpon>EventHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event\EventList.resx">
+      <DependentUpon>EventList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event\EventMaintenance.resx">
+      <DependentUpon>EventMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword\ConfirmUsername.resx">
+      <DependentUpon>ConfirmUsername.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword\ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogHistory\LogHistory.resx">
+      <DependentUpon>LogHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAnnouncement\SmsAnnouncement.resx">
+      <DependentUpon>SmsAnnouncement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAnnouncement\SmsAnnouncementRecord.resx">
+      <DependentUpon>SmsAnnouncementRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SecurityQuestion\SecurityQuestion.resx">
+      <DependentUpon>SecurityQuestion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SecurityQuestion\SecurityQuestionMaintenance.resx">
+      <DependentUpon>SecurityQuestionMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfo\StudentMasterListReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentMasterListReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfo\StudentMasterListViewer.resx">
+      <DependentUpon>StudentMasterListViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemPassword\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemPassword\SystemPassword.resx">
+      <DependentUpon>SystemPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemPassword\SystemPasswordList.resx">
+      <DependentUpon>SystemPasswordList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemPassword\SystemPasswordMaintenance.resx">
+      <DependentUpon>SystemPasswordMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserAccount\UserAccount.resx">
+      <DependentUpon>UserAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserAccount\UserAccountMaintenance.resx">
+      <DependentUpon>UserAccountMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAnnouncement\AnnouncementMaintenance.resx">
+      <DependentUpon>AnnouncementMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Year Level\YearLevel.resx">
+      <DependentUpon>YearLevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAnnouncement\ManageAnnouncement.resx">
+      <DependentUpon>ManageAnnouncement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseInfo\CourseList.resx">
+      <DependentUpon>CourseList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CourseInfo\CourseMaintenance.resx">
+      <DependentUpon>CourseMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfo\ImportStudentMasterList.resx">
+      <DependentUpon>ImportStudentMasterList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfo\site.resx">
+      <DependentUpon>site.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfo\StudentEntry.resx">
+      <DependentUpon>StudentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfo\StudentMasterList.resx">
+      <DependentUpon>StudentMasterList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Year Level\YearLevelMaintenance.resx">
+      <DependentUpon>YearLevelMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access.Dao">
+      <Guid>{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock-shield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Layer 0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TFVC PNG LOGO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TFVC PNG LOGO.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

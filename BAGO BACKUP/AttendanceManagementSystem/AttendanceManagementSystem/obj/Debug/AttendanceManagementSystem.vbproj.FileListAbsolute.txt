@@ -1,0 +1,312 @@
+c:\users\weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\documents\visual studio 2012\Projects\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecord.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecordViewer.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterListViewer.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecord.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventAttendance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPassword.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Main.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordList.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordMaintenance.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncement.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ForgotPassword.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ConfirmUsername.resources
+C:\Users\Weweng\Desktop\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecord.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecord.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventAttendance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ConfirmUsername.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ForgotPassword.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncement.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterListViewer.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Main.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPassword.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordList.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\Desktop\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncementRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventAttendance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ConfirmUsername.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ForgotPassword.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncement.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncementRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterListViewer.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Main.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPassword.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventHistory.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecordViewer.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventAttendance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventHistory.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ConfirmUsername.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ForgotPassword.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncement.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncementRecord.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterListViewer.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Main.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPassword.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\Desktop\BAGOOOOOOOOO - Copy\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecord.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecordViewer.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecord.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecordViewer.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventAttendance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventHistory.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ConfirmUsername.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ForgotPassword.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncement.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncementRecord.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterListViewer.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Main.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPassword.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordList.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe.config
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.exe
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.pdb
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\AttendanceManagementSystem.xml
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecord.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AttendanceRecordViewer.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Attendance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecord.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventRecordViewer.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventAttendance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventHistory.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventList.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.EventMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ConfirmUsername.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ForgotPassword.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.LogHistory.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncement.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SmsAnnouncementRecord.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestion.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SecurityQuestionMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterListViewer.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Main.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPassword.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordList.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.SystemPasswordMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccount.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.UserAccountMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AnnouncementMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevel.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ManageAnnouncement.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Login.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.Resources.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseList.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.CourseMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.MainForm.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.ImportStudentMasterList.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.site.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentEntry.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.StudentMasterList.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.YearLevelMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.DepartmentList.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.DepartmentMaintenance.resources
+C:\Users\Weweng\Desktop\Latest backup - Copy - Copy (2)\BAGO BACKUP\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\AttendanceManagementSystem.AuditTrailHistory.resources
